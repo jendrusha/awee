@@ -1,4 +1,4 @@
-module github.com/jendrusha/awee
+module github.com/jendrusha/awee/v1
 
 go 1.21.5
 
